@@ -14,6 +14,7 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 ### Dark Reincarnation
 |Name|Art|
 |:---|:---|
+|Bozel|![Bozel](images/bozel.png)|
 |Lana|![Lana](images/lana.png)|
 
 ## Status
