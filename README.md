@@ -15,6 +15,7 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 |Name|Art|
 |:---|:---|
 |Bozel|![Bozel](images/bozel.png)|
+|Sonya|![Sonya](images/sonya.png)|
 |Lana|![Lana](images/lana.png)|
 
 ## Status
