@@ -10,6 +10,7 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 |Elwin|![Elwin](images/elwin.png)|
 |Hein|![Hein](images/hein.png)|
 |Liana|![Liana](images/liana.png)|
+|Sherry|![Sherry](images/sherry.png)|
 
 ### Dark Reincarnation
 |Name|Art|
