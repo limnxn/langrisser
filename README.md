@@ -11,6 +11,7 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 |Hein|![Hein](images/hein.png)|
 |Liana|![Liana](images/liana.png)|
 |Sherry|![Sherry](images/sherry.png)|
+|Lester|![Lester](images/lester.png)|
 
 ### Dark Reincarnation
 |Name|Art|
