@@ -15,6 +15,11 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 |Lester|![Lester](images/lester.png)|
 |Jessica|![Jessica](images/jessica.png)|
 
+### Empire's Honor
+|Name|Art|
+|:---|:---|
+|Bernhardt|![Bernhardt](images/bernhardt.png)|
+
 ### Dark Reincarnation
 |Name|Art|
 |:---|:---|
