@@ -22,6 +22,7 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 |Egbert|![Egbert](images/egbert.png)|
 |Leon|![Leon](images/leon.png)|
 |Vargas|![Vargas](images/vargas.png)|
+|Imelda|![Imelda](images/imelda.png)|
 
 ### Dark Reincarnation
 |Name|Art|
