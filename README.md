@@ -31,5 +31,9 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 |Sonya|![Sonya](images/sonya.png)|
 |Lana|![Lana](images/lana.png)|
 
-## Status
-![Status](images/status.png)
+## UI
+
+### Menu
+|Name|Art|
+|:---|:---|
+|Status|![Status](images/status.png)|
