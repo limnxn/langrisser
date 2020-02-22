@@ -32,3 +32,4 @@ Changed the existing expression of Langrisser Mobile to pixel art.
 |Lana|![Lana](images/lana.png)|
 
 ## Status
+![Status](images/status.png)
